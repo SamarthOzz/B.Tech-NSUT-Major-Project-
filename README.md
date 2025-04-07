@@ -1,4 +1,4 @@
-# B.Tech-NSUT-Major-Project-
+# B.Tech-NSUT-Major-Project
 Design And Fabrication of Multipurpose Agricultural Machine| Supervised by Professor S.K Chak.
 
 Research introduces a state-of-the-art multipurpose agricultural machine designed on ANSYS,
